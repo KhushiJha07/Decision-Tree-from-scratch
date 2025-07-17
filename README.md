@@ -15,6 +15,7 @@ This project helped me:
 * Appreciate the model more than ever before!
   
 What's Inside?
+
 ✅ Full implementation of Decision Tree for Classification.
 
 ✅ Custom functions for Entropy, Gini Impurity, and Information Gain
