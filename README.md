@@ -5,16 +5,16 @@ Building a model from scratch helps truly understand how it works. While librari
   <img src="example.png" width="500"/>
 </p>
 
- Why Build From Scratch?
+ *Why Build From Scratch?*
 Understanding any machine learning model deeply often begins with writing it from the ground up. While libraries like Scikit-learn let us use DecisionTreeClassifier in just a few lines of code, we miss the mathematical logic, tree structure, and decision-making process that makes the algorithm so powerful.
 
-This project helped me:
+*This project helped me:*
 
 * Grasp the real working of splits, entropy, information gain, etc.
 * Translate the theoretical steps into working Python code.
 * Appreciate the model more than ever before!
   
-What's Inside?
+*What's Inside?*
 
 ✅ Full implementation of Decision Tree for Classification.
 
@@ -28,7 +28,7 @@ What's Inside?
 
 ✅ 📚 A "Digital Notes PDF" covering all concepts step-by-step
 
-Learning Resources Included
+*Learning Resources Included*
 
 I've attached a digital notes PDF that:
 
