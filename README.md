@@ -29,6 +29,7 @@ What's Inside?
 ✅ 📚 A "Digital Notes PDF" covering all concepts step-by-step
 
 Learning Resources Included
+
 I've attached a digital notes PDF that:
 
 * Explains all theoretical concepts (Entropy, Gain, Gini, etc.)
