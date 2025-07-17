@@ -15,11 +15,16 @@ This project helped me:
 * Appreciate the model more than ever before!
   
 What's Inside?
-✅ Full implementation of Decision Tree for Classification
+✅ Full implementation of Decision Tree for Classification.
+
 ✅ Custom functions for Entropy, Gini Impurity, and Information Gain
+
 ✅ Tree-building logic using recursive partitioning
+
 ✅ Support for both categorical and numerical features
+
 ✅ Cleanly structured Python code with comments
+
 ✅ 📚 A "Digital Notes PDF" covering all concepts step-by-step
 
 Learning Resources Included
